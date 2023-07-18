@@ -1,0 +1,28 @@
+{
+    "administradores": [
+      {
+        "Matricula": "123456",
+        "Nome": "YRIO REGIS MENEZES",
+        "Segmento Hominum": "SISTEMAS AUTOMAÇÃO",
+        "Login": "YRIO.MENEZES",
+        "Email": "YRIO.MENEZES@AEC.COM.BR",
+        "Ativo": "true"
+      },
+      {
+        "Matricula": "789546",
+        "Nome": "MIGUEL HENRIQUE DA SILVA MENEZES",
+        "Segmento Hominum": "SISTEMAS AUTOMAÇÃO",
+        "Login": "MIGUEL.MENEZES",
+        "Email": "MIGUEL.MENEZES@AEC.COM.BR",
+        "Ativo": "true"
+      },
+      {
+        "Matricula": "456789",
+        "Nome": "DANILO MARQUES DE AQUINO",
+        "Segmento Hominum": "SISTEMAS AUTOMAÇÃO",
+        "Login": "DANILO.AQUINO",
+        "Email": "DANILO.AQUINO@AEC.COM.BR",
+        "Ativo": "true"
+      }
+    ]
+  }
